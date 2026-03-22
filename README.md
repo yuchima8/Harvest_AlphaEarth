@@ -5,10 +5,10 @@ This is the homepage for the project Harvesting AlphaEarth: Benchmarking the geo
 # Motivation
 In 2025, Google DeepMind introduced AlphaEarth Foundation (AEF), a GFM pre-trained using multi-source EOs across continuous time. An annual, global embedding dataset is produced using AEF, ready for analysis and modeling. The internal experiments show that AEF embeddings have outperformed operational models in 15 EO tasks without re-training. 
 
-However, those experiments are mostly about land cover and land use classification. Applying AEF and other GFMs to agricultural monitoring requires an in-depth evaluation in critical agricultural downstream tasks. There is also a lack of comprehensive comparison between the AEF-based models and traditional remote sensing (RS)-based models under different scenarios, which could offer valuable guidance for researchers and practitioners. This study addresses some of these gaps by evaluating AEF embeddings in three agricultural downstream tasks in the U.S., including crop yield prediction, tillage type classification, and cover crop detection.
+However, those experiments are mostly about land cover and land use classification. Applying AEF and other GFMs to agricultural monitoring requires an in-depth evaluation in critical agricultural downstream tasks. There is also a lack of comprehensive comparison between the AEF-based models and traditional remote sensing (RS)-based models under different scenarios, which could offer valuable guidance for researchers and practitioners. This study addresses some of these gaps by evaluating AEF embeddings in three agricultural downstream tasks: crop yield prediction, tillage type classification, and cover crop detection.
 
 # Contribution
-__Scope__: We systematically evaluate AEF embeddings across tasks at different scales and locations, and RS-based models are trained as comparison models.
+__Scope__: We systematically evaluate AEF embeddings across tasks at different scales and locations in US, and RS-based models are trained as comparison models.
 
 __Findings__: We identify several limitations in current AEF embeddings, such as limited spatial transferability compared to RS-based models, low interpretability, and limited time sensitivity.
 
