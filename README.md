@@ -1,5 +1,7 @@
 # Harvesting AlphaEarth
 
+![alt text]([https://github.com/yuchima8/STaPL/blob/main/Fig4_STAPL_Tillage_Maps.png](https://github.com/yuchima8/Harvest_AlphaEarth/blob/main/HarvestAlphaEarth.png))
+
 This is the homepage for the project __Harvesting AlphaEarth: Benchmarking the geospatial Foundation model for agricultural downstream tasks__. 
 
 # Motivation
