@@ -29,5 +29,10 @@ __Scale-Transfer__: evaluating scale transferability from coarse to fine resolut
 
 This holistic approach allows us to diagnose not just how well the embeddings perform, but under what conditions they succeed or fail, providing generalizable insights for the broader GFM field.
 
-<img width="468" height="142" alt="image" src="https://github.com/user-attachments/assets/f975e233-d937-4c07-8ed5-1811d77e4a05" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/f975e233-d937-4c07-8ed5-1811d77e4a05" />
 
+# Code and Data
+
+The codes and data for county-level yield prediction are provided.
+
+# Publication
