@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/yuchima8/Harvest_AlphaEarth/blob/main/HarvestAlphaEarth.png)
 
-This is the homepage for the project __Harvesting AlphaEarth: Benchmarking the geospatial Foundation model for agricultural downstream tasks__. 
+This is the homepage for the project __Harvesting AlphaEarth: Benchmarking the Geospatial Foundation Model for Agricultural Downstream Tasks__. 
 
 # Motivation
 In 2025, Google DeepMind introduced AlphaEarth Foundation (AEF), a GFM pre-trained using multi-source EOs across continuous time. An annual, global embedding dataset is produced using AEF, ready for analysis and modeling. The internal experiments show that AEF embeddings have outperformed operational models in 15 EO tasks without re-training. 
