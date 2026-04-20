@@ -38,3 +38,5 @@ This holistic approach allows us to diagnose not just how well the embeddings pe
 The codes and data for county-level corn yield prediction are provided.
 
 # Publication
+
+The paper is now available: https://www.sciencedirect.com/science/article/pii/S1569843226001743
